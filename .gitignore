@@ -1,0 +1,45 @@
+# Other
+.idea
+.DS_Store
+*.local
+*.zip
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# NodeJS
+node_modules
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Building
+dist
+dist-ssr
+
+# Storybook
+storybook-static
+
+# Test
+coverage
+
+src/public/*
+!src/public/renderer-config.json
+!src/public/ui-config.json

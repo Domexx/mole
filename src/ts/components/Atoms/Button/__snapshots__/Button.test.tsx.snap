@@ -1,0 +1,16 @@
+// Vitest Snapshot v1
+
+exports[`Matches Snapshot 1`] = `
+<button
+  className="Button
+    Button--type-default
+    Button--size-normal
+    Button--align-left
+    text-black
+    bg-black"
+  onClick={[Function]}
+  type="button"
+>
+  Anthony Fu
+</button>
+`;

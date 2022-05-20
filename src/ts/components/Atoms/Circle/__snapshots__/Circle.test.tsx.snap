@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`Matches Snapshot 1`] = `
+<div
+  aria-hidden="true"
+  className="w-12 h-12 flex items-center justify-center border-4 text-xl sm:w-20 sm:h-20 rounded-full bg-green-300 border-green-600 cursor-pointer"
+  data-testid="Circle"
+  onClick={[Function]}
+  role="button"
+  tabIndex={0}
+>
+  😀
+</div>
+`;

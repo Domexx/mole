@@ -1,0 +1,25 @@
+/* === === === === Circle === === === === */
+
+.Circle-enabled {
+  cursor: pointer;
+}
+
+.Circle-disabled {
+  cursor: not-allowed;
+}
+
+.Circle--green {
+  background-color: rgb(76, 154, 56);
+}
+
+.Circle--red {
+  background-color: rgb(179, 36, 36);
+}
+
+.Circle--yellow {
+  background-color: rgb(217, 204, 18);
+}
+
+.Circle--gray {
+  background-color: rgba(255, 255, 255, 0.337);
+}

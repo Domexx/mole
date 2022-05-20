@@ -1,0 +1,24 @@
+// Vitest Snapshot v1
+
+exports[`Matches Snapshot 1`] = `
+<div
+  className="Message"
+  data-testid="Message"
+>
+  <h1>
+    TestText
+  </h1>
+  <div
+    className="Message-wrapper"
+  >
+    <div>
+      Correct: 
+      0
+    </div>
+    <div>
+      Incorrect: 
+      0
+    </div>
+  </div>
+</div>
+`;

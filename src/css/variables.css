@@ -1,0 +1,16 @@
+:root {
+  --clr-primary: #0000;
+  --clr-white: #ffffff;
+
+  --clr-clickable: var(--clr-primary);
+  --clr-error: #ff4a55;
+
+  --clr-background: #1f1f1f;
+  --clr-background-secondary: #292929;
+
+  --clr-text-primary: var(--clr-white);
+  --clr-text-secondary: rgba(255, 255, 255, 0.6);
+  --clr-text-tertiary: #b5b6b8;
+
+  --fnt-primary: 'Stolzl', sans-serif;
+}

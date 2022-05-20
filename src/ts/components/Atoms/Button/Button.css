@@ -1,0 +1,51 @@
+/* === === === === Button === === === === */
+
+.Button {
+  padding: 15px 22px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  font-family: var(--fnt-primary);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.Button--type-default {
+  color: var(--clr-white);
+  transition: background-color 250ms ease-in-out;
+}
+
+.Button--type-default:active,
+.Button--type-default:focus {
+  outline: 0;
+}
+
+.Button--type-slight {
+  color: var(--clr-white);
+  transition: background-color 250ms ease-in-out;
+}
+
+.Button--type-slight:active,
+.Button--type-slight:focus {
+  outline: 0;
+}
+
+.Button--is-Active {
+  color: var(--clr-text-primary);
+}
+
+.Button--align-left {
+  display: table;
+  margin-right: auto;
+}
+
+.Button--align-center {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Button--align-right {
+  display: table;
+  margin-left: auto;
+}

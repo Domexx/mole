@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# FIXME: Command doesn't work
+# yarn lint-staged
